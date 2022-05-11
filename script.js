@@ -6,10 +6,10 @@ for (var i = 0; i < names.length; i++) {
   var firstLetter = names[i].charAt(0).toLowerCase();
 
   if (firstLetter === 'j') {
-    adiosSpeaker(names[i]);
+    byeSpeaker(names[i]);
   }
   else {
-    holaSpeaker(names[i]);
+    helloSpeaker(names[i]);
   }
 }
 
