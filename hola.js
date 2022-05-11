@@ -1,4 +1,3 @@
-
 (function(window) {
 	var speakWord = "hola";
 	var holaSpeaker = function (name) {
